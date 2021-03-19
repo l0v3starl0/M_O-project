@@ -1,0 +1,13 @@
+ý tưởng: app nghe nhạc onl
+
+chức năng: + tìm kiếm
+	   + up load nhạc
+	   + quản lí hồ sơ người dùng
+	   + tạo list nhạc
+	   + đánh dấu bài hát ưa thích
+các màn hình chính: + màn hình trang chủ
+			* bài hát phổ biến	
+			* các thể loại
+		    + màn hình tìm kiếm
+		    + màn hình hồ sơ các nhân
+		    + màn hình phát nhạc
